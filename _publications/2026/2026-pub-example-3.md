@@ -18,5 +18,5 @@ authors:
   - David Yip
 links:
   Paper: "[https://arxiv.org/abs/2508.02232](https://dl.acm.org/doi/10.1145/3742413.3789085)"
-
+  Citation: "/assets/bib/eye2recall.bib"
 ---
