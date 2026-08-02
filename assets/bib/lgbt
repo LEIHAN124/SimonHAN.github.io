@@ -1,0 +1,18 @@
+@inproceedings{10.1145/3800645.3812884,
+author = {Wang, Anqi and Han, Lei and Dong, Jiahua and Zhou, Muzhi and Yip, David and Wang, Yuyang and Hui, Pan},
+title = {Dream the Dream: Futuring Communication between LGBTQ+ and Cisgender Groups in the Metaverse},
+year = {2026},
+isbn = {9798400725630},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3800645.3812884},
+doi = {10.1145/3800645.3812884},
+abstract = {Digital platforms frequently reproduce heteronormative norms and structural biases, limiting inclusive communication between LGBTQ+ and cisgender individuals. The Metaverse, with its affordances for identity fluidity, presence, and community governance, offers a promising site for reimagining such interactions. To investigate this potential, we conducted participatory design workshops involving LGBTQ+ and cisgender participants, situating them in speculative Metaverse contexts to surface barriers and co-create alternative futures. The workshops followed a three-phase process—identifying challenges, speculative problem-solving, and visualizing futures—yielding socio-spatial-technical solutions across four layers: embodied interaction, negotiated visibility, community formation, and reconfigured norms. These findings highlight the importance of spatial cues and power dynamics in shaping digital encounters. We contribute by (1) articulating challenges of cross-group communication in virtual environments, (2) proposing inclusive design opportunities for the Metaverse, and (3) advancing principles for addressing power geometry in digital space. This work demonstrates futuring as a critical strategy for designing equitable, transformative communication infrastructures.},
+booktitle = {Proceedings of the 2026 Designing Interactive Systems Conference},
+pages = {1553–1573},
+numpages = {21},
+keywords = {LGBTQ+, future design, participatory design, co-design, marginalized group, Metaverse},
+location = {
+},
+series = {DIS '26}
+}
