@@ -11,7 +11,7 @@ cover:          /assets/images/covers/zy.png
 authors:
 - Mingnan We
 - Yu Zhou
-- Lei Han
+- "<strong>Lei HAN</strong>"
 
 links:
   Paper: https://dl.acm.org/doi/abs/10.1145/3615522.3615577
